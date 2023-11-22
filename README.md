@@ -4,6 +4,12 @@
 
 submit-web-server
 
+## Install
+
+```shell
+go install github.com/pefish/submit-web-server/cmd/...@latest
+```
+
 ## Quick start
 
 ```shell script
